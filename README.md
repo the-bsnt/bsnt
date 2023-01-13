@@ -3,5 +3,5 @@
 - 🌱 ..
 - 💞️..
 - 📫 Contact me:
-         email:codex.bsnt@gmail.com
+         codex.bsnt@gmail.com
 
