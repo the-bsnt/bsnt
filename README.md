@@ -1,10 +1,7 @@
-- 👋 Hi, This is @codexbsnt.
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋😎 Hi, This is @bsnt.😎😎
+- 👀 I’m interested in Technology such as blockchain, Web3,AI(Maching Learning).
+- 🌱 ..
+- 💞️..
+- 📫 Contact me:
+         email:codex.bsnt@gmail.com
 
-<!---
-codexbsnt/codexbsnt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
