@@ -1,4 +1,4 @@
-- 👋😎 Hi, This is @bsnt.😎😎
+- Hello World! This is @bsnt.😎😎
 - 🌱 ..
 - 💞️..
 - 📫 Contact me:
