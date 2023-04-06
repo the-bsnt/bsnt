@@ -1,6 +1,7 @@
-- Hello World! This is @bsnt.😎😎
-- 🌱 ..
-- 💞️..
+- Hello World!
+- The name is Basnet Sameer.
+- 
+- 
 - 📫 Contact me:
-         codex.bsnt@gmail.com
+         the.bsnt.official@gmail.com
 
