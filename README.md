@@ -1,5 +1,5 @@
 - Hello World!
-- The name is Basnet Sameer.
+- I am Basnet Sameer.
 - 
 - 
 - 📫 Contact me:
