@@ -1,5 +1,7 @@
 - Hello World!
-- I am Basnet Sameer aka bsnt.
+- I am Basnet Sameer ;)
+-                      aka
+-                            BSNT
 - 
 - 
 - 📫 Contact me:
